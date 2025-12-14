@@ -1,0 +1,14 @@
+User: Mahadi Amount:450.00  Conversion rate :140.00.  Result: 63000.00
+User: Mahadi Amount: 456.00 Conversion rate : 34.00.  Result: 15504.00
+User: Tasin  Amount: 560.00  Conversion rate : 98.00. Result: 54880.00
+User: Mahadi Amount: 670.00 Conversion rate : 67.00.  Result: 44890.00
+User: Tasin  Amount: 789.00  Conversion rate : 98.00. Result: 77322.00
+User: Tasin  Amount: 2345.00 Conversion rate : 89.00. Result: 208705.00
+User: Mahadi Amount: 2345.00 Conversion rate : 140.00.Result: 328300.00
+User: Tasin  Amount: 123.00  Conversion rate : 450.00.  Result: 55350.00
+User: Mahadi  Amount: 34.00  Conversion rate : 32.00.  Result: 1088.00
+User: Tasin  Amount: 3456.00  Conversion rate : 89.00.  Result: 307584.00
+User: Mahadi  Amount: 465.00  Conversion rate : 98.00.  Result: 45570.00
+User: Masud  Amount: 3456.00  Conversion rate : 9.70.  Result: 33523.20
+User: Tasin  Amount: 657.00  Conversion rate : 0.00.  Result: 0.00
+User: Mahadi  Amount: 1000.00  Conversion rate : 768.00.  Result: 768000.00
