@@ -29,10 +29,10 @@ Concepts Used<br>
 Project Structure<br>
 
 Currency-converter-java/<br>
-|
+|<br>
 |-- src/<br>
 |   |-- CurrencyConverter.java<br>
-|
+|<br>
 |-- README.md<br>
 |-- .gitignore<br>
 
